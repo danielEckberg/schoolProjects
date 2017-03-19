@@ -1,0 +1,14 @@
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.Tests\bin\Debug\SGBank.Tests.dll.config
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.Tests\bin\Debug\SGBank.Tests.dll
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.Tests\bin\Debug\SGBank.Tests.pdb
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.Tests\bin\Debug\nunit.framework.dll
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.Tests\bin\Debug\SGBank.BLL.dll
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.Tests\bin\Debug\SGBank.Data.dll
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.Tests\bin\Debug\SGBank.Models.dll
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.Tests\bin\Debug\SGBank.BLL.pdb
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.Tests\bin\Debug\SGBank.Data.pdb
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.Tests\bin\Debug\SGBank.Models.pdb
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.Tests\bin\Debug\nunit.framework.xml
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.Tests\obj\Debug\SGBank.Tests.csprojResolveAssemblyReference.cache
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.Tests\obj\Debug\SGBank.Tests.dll
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.Tests\obj\Debug\SGBank.Tests.pdb

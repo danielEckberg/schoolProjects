@@ -1,0 +1,9 @@
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.BLL\bin\Debug\SGBank.BLL.dll
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.BLL\bin\Debug\SGBank.BLL.pdb
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.BLL\bin\Debug\SGBank.Data.dll
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.BLL\bin\Debug\SGBank.Models.dll
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.BLL\bin\Debug\SGBank.Data.pdb
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.BLL\bin\Debug\SGBank.Models.pdb
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.csprojResolveAssemblyReference.cache
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.dll
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.pdb

@@ -1,0 +1,2 @@
+OrderNumber|CustomerName|State|TaxRate|ProductType|Area|CostPerSquareFoot|LaborCostPerSquareFoot|MaterialCost|LaborCost|Tax|Total
+1|Eckberg|OH|6.25|Carpet|200.00|2.25|2.10|450.00|420.00|54.38|924.38

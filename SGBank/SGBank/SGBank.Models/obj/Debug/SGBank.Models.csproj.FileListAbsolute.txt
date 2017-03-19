@@ -1,0 +1,5 @@
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.Models\obj\Debug\SGBank.Models.csprojResolveAssemblyReference.cache
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.Models\obj\Debug\SGBank.Models.pdb

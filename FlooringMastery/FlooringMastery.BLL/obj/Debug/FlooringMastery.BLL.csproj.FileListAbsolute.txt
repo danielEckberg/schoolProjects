@@ -1,0 +1,9 @@
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\FlooringMastery\FlooringMastery.BLL\bin\Debug\FlooringMastery.BLL.dll
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\FlooringMastery\FlooringMastery.BLL\bin\Debug\FlooringMastery.BLL.pdb
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\FlooringMastery\FlooringMastery.BLL\bin\Debug\FlooringMastery.Data.dll
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\FlooringMastery\FlooringMastery.BLL\bin\Debug\FlooringMastery.Models.dll
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\FlooringMastery\FlooringMastery.BLL\bin\Debug\FlooringMastery.Data.pdb
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\FlooringMastery\FlooringMastery.BLL\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\FlooringMastery\FlooringMastery.BLL\obj\Debug\FlooringMastery.BLL.csprojResolveAssemblyReference.cache
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\FlooringMastery\FlooringMastery.BLL\obj\Debug\FlooringMastery.BLL.dll
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\FlooringMastery\FlooringMastery.BLL\obj\Debug\FlooringMastery.BLL.pdb

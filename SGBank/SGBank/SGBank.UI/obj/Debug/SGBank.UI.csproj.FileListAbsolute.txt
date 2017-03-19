@@ -1,0 +1,12 @@
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.UI\bin\Debug\SGBank.UI.exe.config
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.UI\bin\Debug\SGBank.UI.exe
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.UI\bin\Debug\SGBank.UI.pdb
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.UI\bin\Debug\SGBank.BLL.dll
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.UI\bin\Debug\SGBank.Models.dll
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.UI\bin\Debug\SGBank.BLL.pdb
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.UI\bin\Debug\SGBank.Models.pdb
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.UI\obj\Debug\SGBank.UI.csprojResolveAssemblyReference.cache
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.UI\obj\Debug\SGBank.UI.exe
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.UI\obj\Debug\SGBank.UI.pdb
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.UI\bin\Debug\SGBank.Data.dll
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\SGBank\SGBank\SGBank.UI\bin\Debug\SGBank.Data.pdb

@@ -1,0 +1,8 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\03-Collections-LINQ-SystemIO-DateTime\Asssessments\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\LINQExercises\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\LINQExercises\LINQ\bin\Debug\Customers.xml
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\LINQExercises\LINQ\bin\Debug\LINQ.exe
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\LINQExercises\LINQ\bin\Debug\LINQ.pdb
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\LINQExercises\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\LINQExercises\LINQ\obj\Debug\LINQ.exe
+C:\Users\dr3ek\Documents\bootcamp\daniel.eckberg.self.work\Labs\LINQExercises\LINQ\obj\Debug\LINQ.pdb

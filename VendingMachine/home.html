@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>  
+    <head>
+        <title>Vending Machine</title>
+        <link href="css/bootstrap.css"
+              rel="stylesheet">
+              <link href="css/home.css"
+              rel="stylesheet">
+
+    </head>
+    <body>
+        <div class="container">
+            <h1 class="center">Vending Machine</h1>
+            <hr>
+            <div class="row col-xs-8">
+                <div class="col-xs-4"  id="snicker">
+                    <button class="btn btn-info" >
+                        <table id="snickers">
+                            
+                        </table>
+                        </button>  
+                </div>
+                <div class="col-md-4" id="mm"> 
+                    <button class="btn btn-info"><table id="mms"></table></button> </div>
+                <div class="col-md-4" id="pringle">
+                    <button class="btn btn-info" ><table id="pringles"></table></button>  </div>
+                <div class="col-md-4" id="reese"> 
+                    <button class="btn btn-info" ><table id="reeses"></table></button> </div>
+                <div class="col-md-4" id="pretzel"> 
+                    <button class="btn btn-info" ><table id="pretzels"></table></button> </div>
+                <div class="col-md-4" id="twinkie"> 
+                    <button class="btn btn-info" ><table id="twinkies"></table></button> </div>
+                <div class="col-md-4" id="dorito"> 
+                    <button class="btn btn-info" ><table id="doritos"></table></button> </div>
+                <div class="col-md-4" id="almondjoys">
+                    <button class="btn btn-info" ><table id="almondjoy"></table></button> </div>
+                <div class="col-md-4" id="tridents"> 
+                    <button class="btn btn-info" ><table id="trident"></table></button> </div>
+
+            </div>
+            <div class="col-xs-4" id="panel">
+               <div class="row" id="money">
+                      
+                   <h3>Total $ In</h3>
+                <input type = "text"
+                    onkeypress="return false"
+                        class="col-md-8 col-md-offset-2 input-lg"
+                        id="moneyIn"/>
+                    <button class="col-md-5 btn btn-info" id="addDollar">Add Dollar</button>
+                    <button class="col-md-5 btn btn-info" id="addQuarter">Add Quarter</button>
+                    <button class="col-md-5 btn btn-info" id="addDime">Add Dime</button>
+                    <button class="col-md-5 btn btn-info" id="addNickel">Add Nickel</button>  
+                    
+               </div>
+                     
+               
+                    
+                    <div class="row" id="message">
+                    <h3>Messages</h3>
+                    <input type = "text"
+                    onkeypress="return false"
+                        class="col-md-7 col-md-offset-2"
+                        id="messages"/>
+                        <div class="col-md-12">
+                            <label for="itemToPurchase"><h4>Item</h4></label>
+                            <input type="text"
+                            id="itemToPurchase">
+                            <button class="btn btn-info col-md-offset-4" id="makePurchase">Make Purchase</button>
+                        </div>
+                    </div>
+                    <div class="row" id="changesec">
+                             <div class="col-md-12">
+                                 <div>
+                                 <h3>Change</h3>
+                                 </div>
+                                 <input type="text"
+                                 onkeypress="return false"
+                            class="col-md-12 input-lg"
+                            id="change">
+                            <button class="btn btn-info col-md-offset-4" id="changeReturn">Change return</button>
+                             </div>
+                     </div>  
+                </div>
+
+        
+        </div>
+
+
+        <script src="js/jquery-3.0.0.min.js"></script>
+        <script src="js/bootstrap.js"></script>
+        <script src="js/home.js"></script>
+    </body>
+
+
+</html>
